@@ -29,6 +29,6 @@ In the future, we plan to continue to develop and improve the United project by 
 
 
 ## Links
-[Demo](http://www.unitedteam.works/)  — from a new employee perspective.
-[Frontend](https://github.com/LorenFiorini/Atea-Team-Onboarding)  repository.
-[Backend](https://github.com/colakburak/united-onboarding-ai)  repository.
+ - [Demo](http://www.unitedteam.works/)  — from a new employee perspective.
+ - [Frontend](https://github.com/LorenFiorini/Atea-Team-Onboarding)  repository.
+ - [Backend](https://github.com/colakburak/united-onboarding-ai)  repository.
